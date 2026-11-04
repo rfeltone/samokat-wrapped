@@ -1,0 +1,17 @@
+samokat-full-details*.json
+samokat-all-orders*.json
+Samokat_Wrapped_2.html
+*.har
+private/
+references/
+.env*
+dist/
+node_modules/
+*.log
+*.zip
+test-results/
+playwright-report/
+.browser-profile/
+.npm-cache/
+.browsers/
+CODEX_SAMOKAT_EXTENSION_TASK.md
